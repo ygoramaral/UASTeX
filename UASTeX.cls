@@ -66,9 +66,9 @@
 \fi
 
 \if@english
-    \RequirePackage[brazil,main=english]{babel}
+    \RequirePackage[brazilian,main=english]{babel}
 \else
-    \RequirePackage[english,main=brazil]{babel}
+    \RequirePackage[english,main=brazilian]{babel}
 \fi
 
 % \def\ps@headings{%
